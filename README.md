@@ -15,13 +15,11 @@
 * [Sklearn](https://github.com/scikit-learn/scikit-learn) & [KMNIST](https://github.com/rois-codh/kmnist) contributor  
 
 
-Keen on classical ML approaches, Timeseries, NLP and a little bit of LLM. 
-
-Freetime competing in different competitions and hackatons. 
-
-Passionate about Ice Hockey, AirSoft, Cars. 
-
-Trying to make DS community better day by day...
+>Keen on classical ML approaches, Timeseries, NLP and a little bit of LLM.
+>
+>Freetime competing in different competitions and hackatons. Passionate about Ice Hockey and AirSoft.
+>
+>Trying to make DS community better day by day...
 
 <h1>Kaggle stats </h1>
 
