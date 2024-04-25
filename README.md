@@ -21,13 +21,6 @@
 >
 >Trying to make DS community better day by day...
 
-<h1>Kaggle stats </h1>
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dzisandy/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dzisandy/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dzisandy/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dzisandy/discussion/light)
-
 <h1>Codewars & Leetcode stats </h1>
 
 [![dzisandy LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dzisandy97&theme=dark)](https://github.com/dzisandy97/leetcode-stats)
